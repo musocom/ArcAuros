@@ -1,0 +1,12 @@
+#box1 {
+    position: absolute;
+    width: 150px;
+    height: 1078px;
+    padding: 10px;
+    background-color: #faebd7;
+    border: thick double #efa74a;
+}
+
+p{
+    text-align: justify;
+}
