@@ -1,5 +1,6 @@
 #box1 {
     position: absolute;
+    top : 20px;
     width: 150px;
     height: 1078px;
     padding: 10px;
@@ -12,4 +13,6 @@ p{
 }
 div { 
     text-align: center;
+    position: absolute;
+    left : 250px;  
 }
