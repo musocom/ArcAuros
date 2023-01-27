@@ -35,7 +35,7 @@
 	}
 	button {
 		display: inline-block;
-		background-color: #c37012;
+		background-color: #fc9b2d;
 		border-radius: 10px;
 		border: 4px double #cccccc;
 		color: #eeeeee;
@@ -43,6 +43,23 @@
 		font-size: 18px;
 		padding: 5px;
 		width: 400px;
+		-webkit-transition: all 0.5s;
+		-moz-transition: all 0.5s;
+		-o-transition: all 0.5s;
+		transition: all 0.5s;
+		cursor: pointer;
+		margin: 5px;
+	  }
+	  button2 {
+		display: inline-block;
+		background-color: #fc9b2d;
+		border-radius: 10px;
+		border: 4px double #cccccc;
+		color: #eeeeee;
+		text-align: center;
+		font-size: 18px;
+		padding: 5px;
+		width: 120px;
 		-webkit-transition: all 0.5s;
 		-moz-transition: all 0.5s;
 		-o-transition: all 0.5s;
