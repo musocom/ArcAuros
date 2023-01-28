@@ -67,3 +67,14 @@
 		cursor: pointer;
 		margin: 5px;
 	  }
+	  .imagedefond { 
+  
+		background-image: url("logoflou.webp");
+		background-color: grey;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
+		background-attachment: fixed;
+		}
+	   
+	  
